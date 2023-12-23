@@ -1,6 +1,6 @@
 ## Sample API & (Dummy jokes API )
 
-!\[my badge\](https://badgen.net/badge/hello/world/red?icon=vercel)
+!\[my badge\](https://badgen.net/badge/Vercel/Deployment/red?icon=vercel)
 #### Example:
 
 
@@ -23,7 +23,8 @@ These API is only for demo purpose to fetch the data from the API to use in the 
 
 LIVE API ENDPOINT : <code>https://rest-api-cors.vercel.app/api/jokes<code> 
 
-![Alt text](image.png)
+![image](https://github.com/STRANJaR/RestAPI_CORS/assets/114976458/448a393e-2a84-45ad-b090-21420fdcd899)
+
 
 
 
